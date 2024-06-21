@@ -1,9 +1,11 @@
-Garasee: Get The Right Price For The Best Car!
+# Garasee: Get The Right Price For The Best Car!
 Determining the price of used cars manually often leads to inaccurate pricing, causing issues like losses for sellers and buyers, depreciation of used car values, and an increase in fraudulent activities. Price and quality are crucial factors when buying a used car, and cost considerations are essential to ensure fairness. The inaccuracy and lack of transparency in determining used car prices have created a need for a better solution.
 
 The emergence of technology presents an opportunity to develop a more accurate, objective, and transparent used car pricing application. This app could incorporate various factors such as the year, brand, model, and condition of the car to generate a more accurate assessment. The aim is to enhance efficiency and trust in the used car buying and selling process.
 
 We want to assist both buyers and sellers of used cars to transact more easily, safely, and comfortably. With Garasee, buyers can easily determine a fair price for a used car, making the negotiation process quicker & more efficient, and minimizing fraud.
+
+## Team Member
 
 |      Id                |       Name    | Role   |  University  |
 |--------------------------|-------------|---|---|
